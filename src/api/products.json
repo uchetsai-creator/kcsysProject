@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": "hotel-pms",
+      "title": "飯店PMS",
+      "category": "飯店管理",
+      "icon": "🏨",
+      "shortDesc": "全方位飯店管理系統",
+      "description": "串接全球旅宿通路管理業者 Siteminder，訂單連續不間斷。歷經無數次的測試與改良，與 Siteminder 雙向串接的服務正式上線，一站式的登打、節省人員按對、建檔、上傳、修正...等繁複工作量，服務即時不間斷。",
+      "features": [
+        "訂房管理系統",
+        "房務管理",
+        "會員管理",
+        "財務報表",
+        "線上訂房整合",
+        "客房狀態即時監控",
+        "Siteminder 串接"
+      ],
+      "image": "/images/products/hotel-pms.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "restaurant-pos",
+      "title": "餐廳POS",
+      "category": "餐飲管理",
+      "icon": "🍽️",
+      "shortDesc": "餐飲業專用銷售管理系統",
+      "description": "專為餐飲業設計的 POS 系統，提供點餐、結帳、庫存管理等完整功能。支援多種付款方式，提升服務效率。",
+      "features": [
+        "點餐管理",
+        "桌位管理",
+        "菜單管理",
+        "庫存控制",
+        "營業報表",
+        "會員優惠整合",
+        "多店管理"
+      ],
+      "image": "/images/products/restaurant-pos.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "procurement",
+      "title": "採購庫存",
+      "category": "庫存管理",
+      "icon": "🛒",
+      "shortDesc": "採購與庫存管理系統",
+      "description": "完整的採購流程管理，從請購、採購、驗收到入庫，全程電子化管理。即時掌握庫存狀況，避免缺貨或積壓。",
+      "features": [
+        "採購申請",
+        "供應商管理",
+        "庫存盤點",
+        "安全庫存警示",
+        "進銷存報表",
+        "成本分析",
+        "多倉庫管理"
+      ],
+      "image": "/images/products/procurement.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "booking-system",
+      "title": "訂席系統",
+      "category": "預約管理",
+      "icon": "📅",
+      "shortDesc": "線上訂位預約系統",
+      "description": "提供客戶便利的線上訂位服務，減少電話訂位的人力成本。即時更新座位狀態，避免重複訂位。",
+      "features": [
+        "線上訂位",
+        "座位管理",
+        "訂位提醒",
+        "候位管理",
+        "客戶記錄",
+        "預約統計",
+        "多通路整合"
+      ],
+      "image": "/images/products/booking-system.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "member-management",
+      "title": "會員管理",
+      "category": "會員系統",
+      "icon": "👤",
+      "shortDesc": "完整的會員管理方案",
+      "description": "建立完善的會員制度，提供積點、折扣、生日優惠等功能。分析會員消費行為，制定精準行銷策略。",
+      "features": [
+        "會員資料管理",
+        "積點系統",
+        "等級制度",
+        "優惠券管理",
+        "消費分析",
+        "簡訊/Email通知",
+        "會員卡整合"
+      ],
+      "image": "/images/products/member-management.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "hr-management",
+      "title": "人資管理",
+      "category": "人力資源",
+      "icon": "👥",
+      "shortDesc": "企業人力資源管理",
+      "description": "協助企業進行員工管理、考勤、薪資等人力資源相關作業。簡化人事流程，提升管理效率。",
+      "features": [
+        "員工資料管理",
+        "考勤打卡",
+        "請假管理",
+        "薪資計算",
+        "績效考核",
+        "招募管理",
+        "教育訓練"
+      ],
+      "image": "/images/products/hr-management.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "financial-management",
+      "title": "財務管理",
+      "category": "財務系統",
+      "icon": "💰",
+      "shortDesc": "財務會計管理系統",
+      "description": "提供完整的財務管理功能，包含帳款管理、報表產生、成本分析等。協助企業掌握財務狀況。",
+      "features": [
+        "帳款管理",
+        "應收應付",
+        "發票管理",
+        "財務報表",
+        "成本分析",
+        "預算控制",
+        "稅務申報"
+      ],
+      "image": "/images/products/financial-management.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "maintenance",
+      "title": "工程維修",
+      "category": "設施管理",
+      "icon": "🔧",
+      "shortDesc": "設施維修管理系統",
+      "description": "管理設施維修工單，追蹤維修進度，記錄維修歷史。提升維修效率，延長設備使用壽命。",
+      "features": [
+        "報修管理",
+        "工單派發",
+        "維修記錄",
+        "設備檔案",
+        "保養提醒",
+        "材料管理",
+        "外包管理"
+      ],
+      "image": "/images/products/maintenance.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "ticketing",
+      "title": "票券管理",
+      "category": "票務系統",
+      "icon": "🎫",
+      "shortDesc": "票券發行與核銷管理",
+      "description": "完整的票券管理解決方案，支援發行、銷售、核銷等全流程管理。防偽機制確保票券安全。",
+      "features": [
+        "電子票券發行",
+        "QR Code 核銷",
+        "票券銷售管理",
+        "使用記錄追蹤",
+        "報表統計",
+        "防偽機制",
+        "多通路整合"
+      ],
+      "image": "/images/products/ticketing.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "integration",
+      "title": "整合管理",
+      "category": "系統整合",
+      "icon": "⚙️",
+      "shortDesc": "跨系統整合解決方案",
+      "description": "整合企業內各項系統，提供統一的管理介面與資料交換。打破資訊孤島，提升整體效率。",
+      "features": [
+        "系統整合",
+        "資料同步",
+        "統一登入",
+        "API 串接",
+        "即時資料交換",
+        "多系統協作",
+        "客製化整合"
+      ],
+      "image": "/images/products/integration.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "mobile-solution",
+      "title": "行動裝置",
+      "category": "行動應用",
+      "icon": "📱",
+      "shortDesc": "移動化管理解決方案",
+      "description": "支援手機、平板等行動裝置的管理系統，讓管理不受地點限制。隨時隨地掌握營運狀況。",
+      "features": [
+        "iOS / Android 支援",
+        "行動訂房",
+        "行動點餐",
+        "即時通知",
+        "雲端同步",
+        "離線作業",
+        "多裝置同步"
+      ],
+      "image": "/images/products/mobile-solution.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    },
+    {
+      "id": "e-commerce",
+      "title": "商品銷售",
+      "category": "電子商務",
+      "icon": "🚚",
+      "shortDesc": "線上商品銷售平台",
+      "description": "建立線上商城，拓展銷售通路。提供完整的電商功能，包含商品管理、訂單處理、金流串接等。",
+      "features": [
+        "商品管理",
+        "購物車系統",
+        "訂單處理",
+        "金流串接",
+        "物流管理",
+        "促銷活動",
+        "客戶評價"
+      ],
+      "image": "/images/products/e-commerce.jpg",
+      "price": "依專案報價",
+      "demoUrl": null
+    }
+  ]
+}

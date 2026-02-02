@@ -1,0 +1,106 @@
+{
+  "company": {
+    "name": "冠全資訊有限公司",
+    "englishName": "KCSYS Information Co., Ltd.",
+    "shortName": "KCSYS",
+    "slogan": "用單純的工具,將繁複的資料變為簡單",
+    "established": 2008,
+    "description": "專業的資訊系統服務供應商，提供全方位的企業管理解決方案",
+    "mission": "致力於協助客戶提升營運效率，降低成本，並在數位時代保持競爭優勢",
+    "vision": "成為台灣最值得信賴的資訊系統整合服務商",
+    "values": [
+      {
+        "title": "專業",
+        "icon": "🎯",
+        "description": "專業的技術團隊與豐富的產業經驗"
+      },
+      {
+        "title": "誠信",
+        "icon": "🤝",
+        "description": "以誠信為本,建立長期合作關係"
+      },
+      {
+        "title": "創新",
+        "icon": "💡",
+        "description": "持續創新,提供最佳解決方案"
+      },
+      {
+        "title": "品質",
+        "icon": "⭐",
+        "description": "堅持高品質的產品與服務"
+      }
+    ],
+    "contact": {
+      "address": {
+        "full": "台中市南屯區工學北路116號",
+        "city": "台中市",
+        "district": "南屯區",
+        "street": "工學北路116號",
+        "zipCode": "40848"
+      },
+      "phone": "04-2265 6615",
+      "fax": "04-2265 5427",
+      "email": "kc.service@kcsys.com.tw",
+      "salesEmail": "sales@kcsys.com.tw",
+      "supportEmail": "support@kcsys.com.tw",
+      "website": "https://www.kcsys.com.tw",
+      "businessHours": {
+        "weekday": "週一至週五 09:00-18:00",
+        "weekend": "週六日及國定假日休息"
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/kcsys",
+      "linkedin": "https://www.linkedin.com/company/kcsys",
+      "line": "@kcsys",
+      "youtube": "https://www.youtube.com/@kcsys"
+    },
+    "statistics": {
+      "clientsServed": 100,
+      "yearsOfExperience": 15,
+      "projectsCompleted": 150,
+      "satisfactionRate": 98,
+      "teamMembers": 35,
+      "supportAvailability": "24/7"
+    },
+    "certifications": [
+      {
+        "name": "ISO 9001",
+        "issuer": "國際標準化組織",
+        "year": 2015
+      },
+      {
+        "name": "ISO 27001",
+        "issuer": "國際標準化組織",
+        "year": 2018
+      }
+    ],
+    "awards": [
+      {
+        "name": "傑出資訊服務獎",
+        "issuer": "經濟部",
+        "year": 2022
+      },
+      {
+        "name": "優良軟體服務商",
+        "issuer": "台灣軟體協會",
+        "year": 2021
+      }
+    ]
+  },
+  "copyright": "版權所有 © 2018 KCSYS 冠全資訊有限公司",
+  "legalLinks": [
+    {
+      "title": "隱私權政策",
+      "url": "/privacy-policy"
+    },
+    {
+      "title": "服務條款",
+      "url": "/terms-of-service"
+    },
+    {
+      "title": "Cookie政策",
+      "url": "/cookie-policy"
+    }
+  ]
+}

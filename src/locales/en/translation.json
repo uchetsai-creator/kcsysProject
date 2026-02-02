@@ -1,0 +1,351 @@
+{
+    "nav": {
+        "home": "Home",
+        "news": "NEWS",
+        "about": "About Us",
+        "products": "Products",
+        "partners": "Partners",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "productOverview": "Product Overview"
+    },
+    "products": {
+        "hotelPms": "Hotel PMS",
+        "restaurantPos": "Restaurant POS",
+        "procurement": "Procurement & Inventory",
+        "bookingSystem": "Booking System",
+        "memberManagement": "Member Management",
+        "hrManagement": "HR Management",
+        "financialManagement": "Financial Management",
+        "maintenance": "Maintenance",
+        "ticketing": "Ticketing",
+        "integration": "Integration",
+        "mobileSolution": "Mobile Solution",
+        "eCommerce": "E-Commerce"
+    },
+    "home": {
+        "whyChooseUs": "Why Choose KC Information",
+        "whyChooseUsSubtitle": "Professional, Trustworthy, and Innovative IT Solutions Provider",
+        "professionalExperience": "Professional Experience",
+        "professionalExperienceDesc": "Years of industry experience, serving over 100 enterprise clients with deep understanding of various industry needs",
+        "technicalLeadership": "Technical Leadership",
+        "technicalLeadershipDesc": "Adopting the latest technology architecture to ensure stable and efficient systems with continuous optimization",
+        "customService": "Custom Service",
+        "customServiceDesc": "Tailored solutions based on customer needs, providing flexible customized development services",
+        "comprehensiveSupport": "Comprehensive Support",
+        "comprehensiveSupportDesc": "Providing complete training and immediate technical support for your peace of mind",
+        "productIntroduction": "Product Introduction",
+        "productIntroductionSubtitle": "Complete IT System Solutions",
+        "viewAllProducts": "View All Products",
+        "readyToStart": "Ready to Get Started?",
+        "readyToStartDesc": "Contact us now to learn how we can help improve your business efficiency",
+        "contactNow": "Contact Now",
+        "exploreProducts": "Explore Products"
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "KC Information is committed to providing the most professional IT system services",
+        "companyIntro": "Company Introduction",
+        "companyDesc1": "KC Information was established years ago, focusing on providing enterprise-level IT system solutions. We have an experienced professional team dedicated to helping clients improve operational efficiency, reduce costs, and maintain competitive advantages in the digital age.",
+        "companyDesc2": "Our service scope covers hotel management systems, enterprise resource planning systems, customized software development, and more. We have successfully served over 100 enterprise clients and received high recognition from the industry.",
+        "coreValues": "Core Values",
+        "professional": "Professional",
+        "professionalDesc": "Professional technical team with rich industry experience",
+        "integrity": "Integrity",
+        "integrityDesc": "Building long-term partnerships based on integrity",
+        "innovation": "Innovation",
+        "innovationDesc": "Continuous innovation to provide the best solutions",
+        "quality": "Quality",
+        "qualityDesc": "Insisting on high-quality products and services",
+        "ourTeam": "Our Team",
+        "teamDesc": "We have a professional team composed of senior engineers, project managers, and system analysts. Each member has rich practical experience and professional certifications, dedicated to providing the highest quality service to clients. We believe that an excellent team is the foundation of providing outstanding service."
+    },
+    "productsPage": {
+        "title": "Products & Services",
+        "subtitle": "Providing comprehensive IT system solutions to help businesses improve operational efficiency",
+        "categories": "Product Categories",
+        "mainFeatures": "Main Features",
+        "learnMore": "Learn More",
+        "loading": "Loading...",
+        "loadError": "Failed to load product data, please try again later",
+        "reload": "Reload",
+        "notFound": "Can't find a suitable solution?",
+        "customDev": "We provide customized development services, welcome to discuss your needs with us",
+        "contactUs": "Contact Now"
+    },
+    "productDetail": {
+        "notFound": "Product not found",
+        "backToList": "Back to Product List",
+        "productIntro": "Product Introduction",
+        "mainFeatures": "Main Features",
+        "interested": "Interested in this product?",
+        "contactPrompt": "Fill out the form and our specialist will contact you as soon as possible",
+        "consultNow": "Consult Now",
+        "hotline": "Consultation Hotline",
+        "relatedProducts": "Other Recommended Products"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "If you have any questions or needs, please feel free to contact us",
+        "getInTouch": "Get In Touch",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "company": "Company Name",
+        "message": "Message",
+        "send": "Send Message",
+        "sending": "Sending...",
+        "success": "Message sent successfully! We will contact you as soon as possible.",
+        "error": "Failed to send, please try again later",
+        "contactInfo": "Contact Information",
+        "address": "Address",
+        "businessHours": "Business Hours",
+        "weekday": "Monday to Friday 09:00-18:00",
+        "weekend": "Closed on weekends and national holidays"
+    },
+    "news": {
+        "title": "Latest News",
+        "subtitle": "Stay updated with KC Information's latest developments and industry information",
+        "readMore": "Read More",
+        "prevPage": "Previous",
+        "nextPage": "Next",
+        "loading": "Loading...",
+        "loadError": "Failed to load news data, please try again later",
+        "reload": "Reload",
+        "noNews": "No news available at the moment",
+        "categories": {
+            "productUpdate": "Product Update",
+            "systemIntegration": "System Integration"
+        },
+        "items": {
+            "mobilePOS": {
+                "title": "Mobile Device - Mobile POS Successfully Launched",
+                "excerpt": "After extensive effort and countless communications and tests between engineers and clients, the customized system meets the needs of chain restaurants. Through scheduled restaurant service operation drills, we repeatedly adjusted the program flow and operations. KC Information always provides opportunities to participate in customer service, gaining on-site and store development perspectives to face challenges.",
+                "content": "Real-time ordering and instant order delivery on-site, quick table service, online connectivity, saving time and labor costs, helping customers develop systems that coordinate with their workflows.\n\nSimultaneously upgrading customer experience, saving time and computing resources.",
+                "tags": [
+                    "Mobile POS",
+                    "Restaurant System",
+                    "Product Launch"
+                ]
+            },
+            "siteminder": {
+                "title": "Integration with Global Hospitality Channel Manager Siteminder - Uninterrupted Order Flow",
+                "excerpt": "After countless tests and improvements, the bidirectional integration service with Siteminder is officially launched. One-stop data entry saves staff from repetitive tasks like matching, filing, uploading, and correcting, ensuring uninterrupted service.",
+                "content": "KC Information adheres to the principle of 'using simple tools to simplify complex data,' working together with major industry players to create a more convenient working environment for Taiwan's hospitality industry.\n\nThrough deep integration with Siteminder, hotel operators can:\n- Manage all booking channels in one place\n- Real-time synchronization of room availability and pricing\n- Automated order processing workflow\n- Reduce manual error rates\n- Improve overall operational efficiency",
+                "tags": [
+                    "Siteminder",
+                    "Hotel PMS",
+                    "System Integration"
+                ]
+            },
+            "memberSystem": {
+                "title": "New Member Management System Officially Released",
+                "excerpt": "The new member management system provides more comprehensive member management functions, including intelligent recommendations, automated marketing, consumption analysis, and other advanced features.",
+                "content": "Main updates to the new member management system:\n- AI intelligent recommendation engine\n- Automated marketing tools\n- In-depth consumer behavior analysis\n- Multi-channel member integration\n- Mobile membership card functionality",
+                "tags": [
+                    "Member Management",
+                    "System Update",
+                    "AI Features"
+                ]
+            }
+        }
+    },
+    "partners": {
+        "title": "Partners",
+        "subtitle": "Collaborating with industry-leading brands to provide the best solutions",
+        "description": "We have established long-term partnerships with many well-known domestic and international manufacturers, integrating resources and technical advantages from all parties to provide clients with the most complete solutions.",
+        "stats": {
+            "partners": "Partner Companies",
+            "experience": "Years of Experience",
+            "satisfaction": "Customer Satisfaction"
+        },
+        "mainPartners": "Main Partners",
+        "successStories": "Success Stories",
+        "testimonials": "Customer Testimonials",
+        "stories": {
+            "hotel": {
+                "name": "International Hotel Chain",
+                "system": "Hotel PMS System",
+                "description": "After implementing our hotel management system, booking efficiency increased by 40%, and customer satisfaction significantly improved.",
+                "efficiency": "Efficiency +40%",
+                "satisfaction": "Satisfaction 95%"
+            },
+            "restaurant": {
+                "name": "Famous Restaurant Chain",
+                "system": "Restaurant POS System",
+                "description": "After using our POS system, ordering speed increased, inventory management became more accurate, and operating costs decreased by 25%.",
+                "cost": "Cost -25%",
+                "speed": "Speed +50%"
+            }
+        },
+        "reviews": {
+            "hotel": {
+                "quote": "KC Information's system is very stable, customer service is responsive, and they are a trustworthy partner.",
+                "author": "- Hotel General Manager"
+            },
+            "restaurant": {
+                "quote": "After implementing the system, our operational efficiency greatly improved, and the ROI exceeded expectations.",
+                "author": "- Restaurant Group CEO"
+            },
+            "enterprise": {
+                "quote": "The customized development perfectly meets our needs, and the team is professional and highly cooperative.",
+                "author": "- Enterprise CIO"
+            }
+        },
+        "cta": {
+            "title": "Become Our Partner",
+            "subtitle": "Join us to create more success stories together",
+            "button": "Contact Now"
+        }
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "Success stories demonstrate our professionalism and strength",
+        "client": "Client",
+        "industry": "Industry",
+        "solution": "Solution",
+        "description": "Project Description",
+        "loading": "Loading...",
+        "loadError": "Failed to load project data, please try again later",
+        "reload": "Reload",
+        "stats": {
+            "projects": "Projects Completed",
+            "experience": "Years of Experience",
+            "satisfaction": "Customer Satisfaction",
+            "support": "Technical Support"
+        },
+        "projectResults": "Project Results",
+        "categories": {
+            "hotelManagement": "Hotel Management",
+            "restaurantManagement": "Restaurant Management",
+            "systemIntegration": "System Integration",
+            "ticketingManagement": "Ticketing Management",
+            "enterpriseManagement": "Enterprise Management",
+            "memberManagement": "Member Management"
+        },
+        "projects": {
+            "hotel": {
+                "title": "International Hotel Chain - PMS System Implementation",
+                "client": "International Hotel Chain",
+                "description": "Implemented complete PMS system for hotel chain, integrated with Siteminder booking channels, improving booking efficiency by 40%.",
+                "results": [
+                    "Booking efficiency increased by 40%",
+                    "Labor costs reduced by 30%",
+                    "Customer satisfaction improved to 95%"
+                ],
+                "technologies": [
+                    "Hotel PMS",
+                    "Siteminder Integration",
+                    "Cloud Architecture"
+                ]
+            },
+            "restaurant": {
+                "title": "Famous Restaurant Chain - Mobile POS System",
+                "client": "Restaurant Chain Group",
+                "description": "Customized mobile POS system development, supporting iPad ordering, real-time kitchen transmission, significantly improving service efficiency.",
+                "results": [
+                    "Ordering speed increased by 50%",
+                    "Error rate reduced by 80%",
+                    "Table turnover rate increased by 25%"
+                ],
+                "technologies": [
+                    "Restaurant POS",
+                    "Mobile Devices",
+                    "iPad Ordering"
+                ]
+            },
+            "mall": {
+                "title": "Large Shopping Mall - Integrated Management System",
+                "client": "Shopping Mall",
+                "description": "Integrated parking, membership, consumption discount and other subsystems, providing unified management platform.",
+                "results": [
+                    "System integration 100%",
+                    "Management efficiency increased by 60%",
+                    "Customer experience optimized"
+                ],
+                "technologies": [
+                    "Integrated Management",
+                    "API Integration",
+                    "Member System"
+                ]
+            },
+            "tourism": {
+                "title": "Tourist Attraction - Ticketing Management System",
+                "client": "Famous Tourist Attraction",
+                "description": "Electronic ticketing system, supporting online ticket purchase, QR Code verification, improving entry efficiency.",
+                "results": [
+                    "Ticket purchase convenience improved",
+                    "Entry speed increased by 70%",
+                    "Paper tickets reduced by 95%"
+                ],
+                "technologies": [
+                    "Ticket Management",
+                    "QR Code",
+                    "Online Payment"
+                ]
+            },
+            "manufacturing": {
+                "title": "Manufacturing - ERP Integration Solution",
+                "client": "Manufacturing Company",
+                "description": "Implemented ERP system, integrating production, inventory, finance, HR and other modules.",
+                "results": [
+                    "Inventory accuracy 98%",
+                    "Production efficiency increased by 35%",
+                    "Cost reduced by 20%"
+                ],
+                "technologies": [
+                    "Financial Management",
+                    "Inventory Management",
+                    "HR Management"
+                ]
+            },
+            "fitness": {
+                "title": "Gym Chain - Member Management System",
+                "client": "Fitness Chain Brand",
+                "description": "Member management system with smart access control, class booking, consumption records and other functions.",
+                "results": [
+                    "Member satisfaction 92%",
+                    "Renewal rate increased by 40%",
+                    "Operating costs reduced by 25%"
+                ],
+                "technologies": [
+                    "Member Management",
+                    "Access Control Integration",
+                    "APP Development"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Let Us Help Your Business Grow",
+            "subtitle": "Contact us now to learn how we can create the most suitable solution for you",
+            "button": "Start Consultation"
+        }
+    },
+    "footer": {
+        "quickLinks": "Quick Links",
+        "contactInfo": "Contact Information",
+        "companyAddress": "Address",
+        "companyPhone": "Phone",
+        "fax": "Fax",
+        "email": "Email",
+        "copyright": "Copyright © 2018 KCSYS KC Information Co., Ltd.",
+        "companyDescription": "Professional IT system service provider, offering comprehensive enterprise management solutions"
+    },
+    "breadcrumbs": {
+        "home": "Home",
+        "news": "News",
+        "about": "About Us",
+        "products": "Products",
+        "partners": "Partners",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+    },
+    "hero": {
+        "companyName": "KC Information",
+        "title": "Professional IT System Integration Services",
+        "subtitle": "Providing comprehensive IT solutions for hotels, restaurants, and enterprises",
+        "slogan": "Simplifying complex data with simple tools",
+        "learnMore": "Learn More",
+        "contactUs": "Contact Us"
+    }
+}

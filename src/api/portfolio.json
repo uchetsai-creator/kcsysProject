@@ -1,0 +1,369 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "國際連鎖飯店集團 - PMS系統導入",
+      "slug": "international-hotel-pms",
+      "category": "飯店管理",
+      "client": "某國際連鎖飯店",
+      "clientLogo": "/images/projects/hotel-client.png",
+      "year": 2023,
+      "duration": "6個月",
+      "teamSize": 8,
+      "image": "/images/projects/hotel-project.jpg",
+      "gallery": [
+        "/images/projects/hotel-1.jpg",
+        "/images/projects/hotel-2.jpg",
+        "/images/projects/hotel-3.jpg"
+      ],
+      "description": "為國際連鎖飯店導入完整的 PMS 系統，整合 Siteminder 訂房通路，提升訂房效率 40%。系統涵蓋訂房、退房、房務、會員、財務等完整模組。",
+      "challenge": "客戶需要整合多個訂房通路，人工處理訂單容易出錯且耗時。需要一套能夠自動同步各通路訂單的系統。",
+      "solution": "導入冠全資訊飯店PMS系統，串接Siteminder，實現一站式管理所有訂房通路。系統自動同步房態、價格，並即時處理訂單。",
+      "results": [
+        {
+          "metric": "訂房效率",
+          "improvement": "提升 40%",
+          "description": "自動化處理訂單，減少人工作業時間"
+        },
+        {
+          "metric": "人力成本",
+          "improvement": "降低 30%",
+          "description": "減少訂房處理人力需求"
+        },
+        {
+          "metric": "客戶滿意度",
+          "improvement": "提升至 95%",
+          "description": "訂房確認快速，錯誤率降低"
+        },
+        {
+          "metric": "錯誤率",
+          "improvement": "降低 85%",
+          "description": "自動化處理減少人為錯誤"
+        }
+      ],
+      "technologies": [
+        "飯店PMS",
+        "Siteminder串接",
+        "雲端架構",
+        "RESTful API"
+      ],
+      "testimonial": {
+        "content": "系統上線後，我們的工作效率大幅提升，客人的滿意度也明顯提高。",
+        "author": "飯店總經理",
+        "position": "總經理"
+      },
+      "featured": true,
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "知名連鎖餐飲集團 - 行動POS系統",
+      "slug": "restaurant-mobile-pos",
+      "category": "餐飲管理",
+      "client": "連鎖餐飲集團",
+      "clientLogo": "/images/projects/restaurant-client.png",
+      "year": 2024,
+      "duration": "4個月",
+      "teamSize": 6,
+      "image": "/images/projects/pos-project.jpg",
+      "gallery": [
+        "/images/projects/pos-1.jpg",
+        "/images/projects/pos-2.jpg"
+      ],
+      "description": "客製化開發行動POS系統，支援iPad點餐，即時傳送廚房，大幅提升服務效率。系統整合桌位管理、菜單管理、庫存控制等功能。",
+      "challenge": "傳統紙本點餐容易出錯，傳單到廚房需要時間，影響出餐速度。尖峰時段經常造成顧客等待。",
+      "solution": "開發iPad行動點餐系統，服務生可在桌邊完成點餐，訂單即時傳送至廚房與櫃檯。支援菜單圖片、客製化選項、優惠活動等功能。",
+      "results": [
+        {
+          "metric": "點餐速度",
+          "improvement": "提升 50%",
+          "description": "iPad點餐，即時傳送廚房"
+        },
+        {
+          "metric": "錯誤率",
+          "improvement": "降低 80%",
+          "description": "電子化點餐減少溝通誤差"
+        },
+        {
+          "metric": "翻桌率",
+          "improvement": "提升 25%",
+          "description": "出餐速度加快，提升營運效率"
+        },
+        {
+          "metric": "營收",
+          "improvement": "成長 35%",
+          "description": "服務效率提升，接待更多客人"
+        }
+      ],
+      "technologies": [
+        "餐廳POS",
+        "行動裝置",
+        "iPad App",
+        "即時通訊"
+      ],
+      "testimonial": {
+        "content": "行動POS系統讓我們的服務流程更順暢，客人不用等太久就能用餐。",
+        "author": "餐廳店長",
+        "position": "店長"
+      },
+      "featured": true,
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "大型購物中心 - 整合管理系統",
+      "slug": "shopping-mall-integration",
+      "category": "系統整合",
+      "client": "購物中心",
+      "clientLogo": "/images/projects/mall-client.png",
+      "year": 2023,
+      "duration": "8個月",
+      "teamSize": 10,
+      "image": "/images/projects/integration-project.jpg",
+      "gallery": [
+        "/images/projects/integration-1.jpg",
+        "/images/projects/integration-2.jpg",
+        "/images/projects/integration-3.jpg"
+      ],
+      "description": "整合停車場、會員、消費折抵等多個子系統，提供統一管理平台。打通各系統資料，實現無縫整合。",
+      "challenge": "購物中心有多個獨立系統，資料無法互通，管理困難。會員消費無法自動折抵停車費，影響顧客體驗。",
+      "solution": "建置整合管理平台，串接所有子系統的API，實現資料即時同步。開發統一的管理後台，提供完整的報表與分析功能。",
+      "results": [
+        {
+          "metric": "系統整合度",
+          "improvement": "100%",
+          "description": "所有子系統完全整合"
+        },
+        {
+          "metric": "管理效率",
+          "improvement": "提升 60%",
+          "description": "統一平台管理，節省時間"
+        },
+        {
+          "metric": "顧客體驗",
+          "improvement": "大幅優化",
+          "description": "消費自動折抵停車費"
+        },
+        {
+          "metric": "資料準確度",
+          "improvement": "提升至 99%",
+          "description": "自動同步，減少錯誤"
+        }
+      ],
+      "technologies": [
+        "整合管理",
+        "API串接",
+        "會員系統",
+        "資料同步"
+      ],
+      "testimonial": {
+        "content": "整合系統後，管理變得更加輕鬆，顧客也更滿意我們的服務。",
+        "author": "購物中心經理",
+        "position": "經理"
+      },
+      "featured": true,
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "title": "觀光景點 - 票券管理系統",
+      "slug": "tourist-ticketing-system",
+      "category": "票務管理",
+      "client": "知名觀光景點",
+      "clientLogo": "/images/projects/tourist-client.png",
+      "year": 2022,
+      "duration": "5個月",
+      "teamSize": 5,
+      "image": "/images/projects/ticket-project.jpg",
+      "gallery": [
+        "/images/projects/ticket-1.jpg",
+        "/images/projects/ticket-2.jpg"
+      ],
+      "description": "電子票券系統，支援線上購票、QR Code核銷，提升入園效率。整合金流、簡訊通知等功能。",
+      "challenge": "紙本票券容易偽造，人工驗票速度慢，尖峰時段造成入園排隊。線上購票後仍需到現場換票，不夠便利。",
+      "solution": "開發電子票券系統，遊客線上購票後直接收到QR Code，入園時掃碼即可。系統具備防偽機制，支援多種票種與優惠方案。",
+      "results": [
+        {
+          "metric": "購票便利性",
+          "improvement": "大幅提升",
+          "description": "線上購票，手機出示即可"
+        },
+        {
+          "metric": "入園速度",
+          "improvement": "加快 70%",
+          "description": "QR Code快速掃描入園"
+        },
+        {
+          "metric": "紙本票券",
+          "improvement": "減少 95%",
+          "description": "環保又便利"
+        },
+        {
+          "metric": "營運成本",
+          "improvement": "降低 40%",
+          "description": "減少印刷與人力成本"
+        }
+      ],
+      "technologies": [
+        "票券管理",
+        "QR Code",
+        "線上金流",
+        "簡訊通知"
+      ],
+      "testimonial": {
+        "content": "遊客可以直接用手機入園，不用排隊換票，大家都很滿意。",
+        "author": "景點營運主管",
+        "position": "營運主管"
+      },
+      "featured": false,
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "title": "製造業 - ERP整合方案",
+      "slug": "manufacturing-erp-integration",
+      "category": "企業管理",
+      "client": "製造業公司",
+      "clientLogo": "/images/projects/manufacturing-client.png",
+      "year": 2023,
+      "duration": "10個月",
+      "teamSize": 12,
+      "image": "/images/projects/erp-project.jpg",
+      "gallery": [
+        "/images/projects/erp-1.jpg",
+        "/images/projects/erp-2.jpg",
+        "/images/projects/erp-3.jpg"
+      ],
+      "description": "導入 ERP 系統，整合生產、庫存、財務、人資等模組。建立完整的企業資源規劃系統。",
+      "challenge": "各部門使用不同系統，資料難以整合。生產排程與庫存管理缺乏連動，經常發生缺料或庫存積壓。",
+      "solution": "導入完整的ERP系統，整合所有部門的作業流程。生產、採購、庫存、財務、人資全部連線，資料即時同步。",
+      "results": [
+        {
+          "metric": "庫存準確度",
+          "improvement": "提升至 98%",
+          "description": "即時更新庫存資訊"
+        },
+        {
+          "metric": "生產效率",
+          "improvement": "提升 35%",
+          "description": "優化生產排程與物料管理"
+        },
+        {
+          "metric": "營運成本",
+          "improvement": "降低 20%",
+          "description": "減少庫存積壓與缺料損失"
+        },
+        {
+          "metric": "決策速度",
+          "improvement": "加快 50%",
+          "description": "即時報表與數據分析"
+        }
+      ],
+      "technologies": [
+        "財務管理",
+        "庫存管理",
+        "人資管理",
+        "生產管理"
+      ],
+      "testimonial": {
+        "content": "ERP系統讓我們的管理更有效率，可以即時掌握公司營運狀況。",
+        "author": "製造業總經理",
+        "position": "總經理"
+      },
+      "featured": false,
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "title": "連鎖健身房 - 會員管理系統",
+      "slug": "fitness-member-management",
+      "category": "會員管理",
+      "client": "健身房連鎖品牌",
+      "clientLogo": "/images/projects/fitness-client.png",
+      "year": 2024,
+      "duration": "3個月",
+      "teamSize": 4,
+      "image": "/images/projects/fitness-project.jpg",
+      "gallery": [
+        "/images/projects/fitness-1.jpg",
+        "/images/projects/fitness-2.jpg"
+      ],
+      "description": "會員管理系統含智能門禁、課程預約、消費記錄等功能。整合APP，提供會員完整的健身體驗。",
+      "challenge": "會員資料分散，課程預約需要電話或臨櫃辦理。門禁卡片容易遺失，管理不便。",
+      "solution": "開發完整的會員管理系統，整合智能門禁、線上課程預約、消費記錄查詢等功能。會員可透過APP完成所有操作。",
+      "results": [
+        {
+          "metric": "會員滿意度",
+          "improvement": "92%",
+          "description": "APP使用便利，服務完善"
+        },
+        {
+          "metric": "續約率",
+          "improvement": "提升 40%",
+          "description": "會員黏著度大幅提高"
+        },
+        {
+          "metric": "營運成本",
+          "improvement": "降低 25%",
+          "description": "減少櫃檯人力需求"
+        },
+        {
+          "metric": "課程預約率",
+          "improvement": "提升 60%",
+          "description": "線上預約更加便利"
+        }
+      ],
+      "technologies": [
+        "會員管理",
+        "門禁整合",
+        "APP開發",
+        "課程管理"
+      ],
+      "testimonial": {
+        "content": "會員都說APP很好用，課程預約變得超級方便！",
+        "author": "健身房店長",
+        "position": "店長"
+      },
+      "featured": false,
+      "status": "completed"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "飯店管理",
+      "slug": "hotel-management",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "name": "餐飲管理",
+      "slug": "restaurant-management",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "name": "系統整合",
+      "slug": "system-integration",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "name": "票務管理",
+      "slug": "ticketing-management",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "name": "企業管理",
+      "slug": "enterprise-management",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "name": "會員管理",
+      "slug": "member-management",
+      "count": 1
+    }
+  ]
+}

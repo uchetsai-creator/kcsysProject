@@ -1,0 +1,351 @@
+{
+    "nav": {
+        "home": "首頁",
+        "news": "NEWS",
+        "about": "公司簡介",
+        "products": "產品介紹",
+        "partners": "合作夥伴",
+        "portfolio": "建置實績",
+        "contact": "聯絡我們",
+        "productOverview": "產品總覽"
+    },
+    "products": {
+        "hotelPms": "飯店PMS",
+        "restaurantPos": "餐廳POS",
+        "procurement": "採購庫存",
+        "bookingSystem": "訂席系統",
+        "memberManagement": "會員管理",
+        "hrManagement": "人資管理",
+        "financialManagement": "財務管理",
+        "maintenance": "工程維修",
+        "ticketing": "票券管理",
+        "integration": "整合管理",
+        "mobileSolution": "行動裝置",
+        "eCommerce": "商品銷售"
+    },
+    "home": {
+        "whyChooseUs": "為什麼選擇冠全資訊",
+        "whyChooseUsSubtitle": "專業、誠信、創新的資訊系統解決方案提供者",
+        "professionalExperience": "專業經驗",
+        "professionalExperienceDesc": "多年產業經驗，服務超過百家企業客戶，深入了解各行業需求",
+        "technicalLeadership": "技術領先",
+        "technicalLeadershipDesc": "採用最新技術架構，確保系統穩定高效，持續優化升級",
+        "customService": "客製服務",
+        "customServiceDesc": "依據客戶需求量身打造，提供彈性的客製化開發服務",
+        "comprehensiveSupport": "完善售後",
+        "comprehensiveSupportDesc": "提供完整的教育訓練與即時技術支援，讓您無後顧之憂",
+        "productIntroduction": "產品介紹",
+        "productIntroductionSubtitle": "完整的資訊系統解決方案",
+        "viewAllProducts": "查看所有產品",
+        "readyToStart": "準備好開始了嗎?",
+        "readyToStartDesc": "立即聯絡我們,了解我們如何協助您的企業提升效率",
+        "contactNow": "立即諮詢",
+        "exploreProducts": "探索產品"
+    },
+    "about": {
+        "title": "關於我們",
+        "subtitle": "冠全資訊致力於提供最專業的資訊系統服務",
+        "companyIntro": "公司簡介",
+        "companyDesc1": "冠全資訊成立於多年前，專注於提供企業級的資訊系統解決方案。我們擁有一支經驗豐富的專業團隊，致力於協助客戶提升營運效率，降低成本，並在數位時代保持競爭優勢。",
+        "companyDesc2": "我們的服務範圍涵蓋旅館管理系統、企業資源規劃系統、客製化軟體開發等多個領域，已成功服務超過百家企業客戶，獲得業界的高度肯定。",
+        "coreValues": "核心價值",
+        "professional": "專業",
+        "professionalDesc": "專業的技術團隊與豐富的產業經驗",
+        "integrity": "誠信",
+        "integrityDesc": "以誠信為本,建立長期合作關係",
+        "innovation": "創新",
+        "innovationDesc": "持續創新,提供最佳解決方案",
+        "quality": "品質",
+        "qualityDesc": "堅持高品質的產品與服務",
+        "ourTeam": "我們的團隊",
+        "teamDesc": "我們擁有一支由資深工程師、專案經理、系統分析師組成的專業團隊。每位成員都具備豐富的實務經驗與專業認證，致力於為客戶提供最優質的服務。我們相信，優秀的團隊是提供卓越服務的基石。"
+    },
+    "productsPage": {
+        "title": "產品服務",
+        "subtitle": "提供全方位的資訊系統解決方案，協助企業提升營運效率",
+        "categories": "產品分類",
+        "mainFeatures": "主要功能",
+        "learnMore": "了解更多",
+        "loading": "載入中...",
+        "loadError": "載入產品資料失敗，請稍後再試",
+        "reload": "重新載入",
+        "notFound": "找不到合適的方案?",
+        "customDev": "我們提供客製化開發服務，歡迎與我們討論您的需求",
+        "contactUs": "立即諮詢"
+    },
+    "productDetail": {
+        "notFound": "找不到此產品",
+        "backToList": "返回產品列表",
+        "productIntro": "產品介紹",
+        "mainFeatures": "主要功能",
+        "interested": "對此產品有興趣?",
+        "contactPrompt": "填寫表單，我們的專員將盡快與您聯繫",
+        "consultNow": "立即諮詢",
+        "hotline": "諮詢專線",
+        "relatedProducts": "其他推薦產品"
+    },
+    "contact": {
+        "title": "聯絡我們",
+        "subtitle": "有任何問題或需求，歡迎與我們聯繫",
+        "getInTouch": "與我們聯繫",
+        "name": "姓名",
+        "email": "電子郵件",
+        "phone": "電話",
+        "company": "公司名稱",
+        "message": "訊息內容",
+        "send": "送出訊息",
+        "sending": "傳送中...",
+        "success": "訊息已成功送出！我們會盡快與您聯繫。",
+        "error": "送出失敗，請稍後再試",
+        "contactInfo": "聯絡資訊",
+        "address": "地址",
+        "businessHours": "營業時間",
+        "weekday": "週一至週五 09:00-18:00",
+        "weekend": "週六日及國定假日休息"
+    },
+    "news": {
+        "title": "最新消息",
+        "subtitle": "掌握冠全資訊的最新動態與產業資訊",
+        "readMore": "閱讀更多",
+        "prevPage": "上一頁",
+        "nextPage": "下一頁",
+        "loading": "載入中...",
+        "loadError": "載入新聞資料失敗，請稍後再試",
+        "reload": "重新載入",
+        "noNews": "目前沒有最新消息",
+        "categories": {
+            "productUpdate": "產品更新",
+            "systemIntegration": "系統整合"
+        },
+        "items": {
+            "mobilePOS": {
+                "title": "行動裝置-行動POS成功上線",
+                "excerpt": "耗費多時,工程師與客戶端的無數次溝通與測試,客製化系統,符合連鎖餐飲之需求,透過安排時段餐廳之服務作業操演,再次調整程式之流程與操演,再次調甜點餐廳告完當,「冠全資訊」總會,讓我們有極會參與顧客服務內所需現場與門市之開發視角至面對問者。",
+                "content": "版務現場即時點餐,即時送單、快速上桌,版務現場連線、即時時間與人力成本,會全客戶挖發進系統協同與工作筆者。\n\n同時視現升級與顧客,會全客時間與經算資。",
+                "tags": [
+                    "行動POS",
+                    "餐飲系統",
+                    "產品上線"
+                ]
+            },
+            "siteminder": {
+                "title": "串接全球旅宿通路管理業者Siteminder,訂單連續不間斷",
+                "excerpt": "歷經無數次的測試與改良,與Siteminder雙向串接的服務正式上線,一站式的登打、節省人員按對、建檔、上傳、修正...等繁複工作量,服務即時不間斷。",
+                "content": "「冠全資訊」秉持著「用單純的工具,將繁複的資料變為簡單」,一同與各大業者努力為台灣的旅宿業者打造更加便使的工作環境。\n\n透過與 Siteminder 的深度整合,飯店業者可以:\n- 一站式管理所有訂房通路\n- 即時同步房態與價格\n- 自動化訂單處理流程\n- 減少人工錯誤機率\n- 提升整體作業效率",
+                "tags": [
+                    "Siteminder",
+                    "飯店PMS",
+                    "系統串接"
+                ]
+            },
+            "memberSystem": {
+                "title": "新版會員管理系統正式推出",
+                "excerpt": "全新的會員管理系統提供更完善的會員經營功能,包含智能推薦、自動化行銷、消費分析等進階功能。",
+                "content": "新版會員管理系統主要更新:\n- AI 智能推薦引擎\n- 自動化行銷工具\n- 深度消費行為分析\n- 多通路會員整合\n- 行動會員卡功能",
+                "tags": [
+                    "會員管理",
+                    "系統更新",
+                    "AI功能"
+                ]
+            }
+        }
+    },
+    "partners": {
+        "title": "合作夥伴",
+        "subtitle": "與業界領導品牌攜手合作，提供最佳解決方案",
+        "description": "我們與多家國內外知名廠商建立長期合作關係，整合各方資源與技術優勢，為客戶提供最完整的解決方案。",
+        "stats": {
+            "partners": "合作企業",
+            "experience": "服務年資",
+            "satisfaction": "客戶滿意度"
+        },
+        "mainPartners": "主要合作夥伴",
+        "successStories": "成功案例",
+        "testimonials": "客戶評價",
+        "stories": {
+            "hotel": {
+                "name": "某國際連鎖飯店",
+                "system": "飯店 PMS 系統",
+                "description": "導入我們的飯店管理系統後，訂房效率提升 40%，客戶滿意度大幅提升。",
+                "efficiency": "效率提升 40%",
+                "satisfaction": "滿意度 95%"
+            },
+            "restaurant": {
+                "name": "知名連鎖餐飲集團",
+                "system": "餐廳 POS 系統",
+                "description": "使用我們的 POS 系統後，點餐速度加快，庫存管理更精準，營運成本降低 25%。",
+                "cost": "成本降低 25%",
+                "speed": "速度提升 50%"
+            }
+        },
+        "reviews": {
+            "hotel": {
+                "quote": "「冠全資訊的系統非常穩定，客服反應迅速，是值得信賴的合作夥伴。」",
+                "author": "- 某飯店總經理"
+            },
+            "restaurant": {
+                "quote": "「導入系統後，我們的營運效率大幅提升，投資報酬率超出預期。」",
+                "author": "- 某餐飲集團執行長"
+            },
+            "enterprise": {
+                "quote": "「客製化開發完全符合我們的需求，團隊專業且配合度高。」",
+                "author": "- 某企業資訊長"
+            }
+        },
+        "cta": {
+            "title": "成為我們的合作夥伴",
+            "subtitle": "加入我們，一起創造更多成功案例",
+            "button": "立即聯絡"
+        }
+    },
+    "portfolio": {
+        "title": "建置實績",
+        "subtitle": "成功案例見證我們的專業與實力",
+        "client": "客戶",
+        "industry": "產業",
+        "solution": "解決方案",
+        "description": "專案說明",
+        "loading": "載入中...",
+        "loadError": "載入專案資料失敗，請稍後再試",
+        "reload": "重新載入",
+        "stats": {
+            "projects": "專案實績",
+            "experience": "服務年資",
+            "satisfaction": "客戶滿意度",
+            "support": "技術支援"
+        },
+        "projectResults": "專案成果",
+        "categories": {
+            "hotelManagement": "飯店管理",
+            "restaurantManagement": "餐飲管理",
+            "systemIntegration": "系統整合",
+            "ticketingManagement": "票務管理",
+            "enterpriseManagement": "企業管理",
+            "memberManagement": "會員管理"
+        },
+        "projects": {
+            "hotel": {
+                "title": "國際連鎖飯店集團 - PMS系統導入",
+                "client": "某國際連鎖飯店",
+                "description": "為連鎖飯店導入完整的 PMS 系統，整合 Siteminder 訂房通路，提升訂房效率 40%。",
+                "results": [
+                    "訂房效率提升 40%",
+                    "人力成本降低 30%",
+                    "客戶滿意度提升至 95%"
+                ],
+                "technologies": [
+                    "飯店PMS",
+                    "Siteminder串接",
+                    "雲端架構"
+                ]
+            },
+            "restaurant": {
+                "title": "知名連鎖餐飲集團 - 行動POS系統",
+                "client": "連鎖餐飲集團",
+                "description": "客製化開發行動POS系統，支援iPad點餐，即時傳送廚房，大幅提升服務效率。",
+                "results": [
+                    "點餐速度提升 50%",
+                    "錯誤率降低 80%",
+                    "翻桌率提升 25%"
+                ],
+                "technologies": [
+                    "餐廳POS",
+                    "行動裝置",
+                    "iPad點餐"
+                ]
+            },
+            "mall": {
+                "title": "大型購物中心 - 整合管理系統",
+                "client": "購物中心",
+                "description": "整合停車場、會員、消費折抵等多個子系統，提供統一管理平台。",
+                "results": [
+                    "系統整合度 100%",
+                    "管理效率提升 60%",
+                    "顧客體驗優化"
+                ],
+                "technologies": [
+                    "整合管理",
+                    "API串接",
+                    "會員系統"
+                ]
+            },
+            "tourism": {
+                "title": "觀光景點 - 票券管理系統",
+                "client": "知名觀光景點",
+                "description": "電子票券系統，支援線上購票、QR Code核銷，提升入園效率。",
+                "results": [
+                    "購票便利性提升",
+                    "入園速度加快 70%",
+                    "紙本票券減少 95%"
+                ],
+                "technologies": [
+                    "票券管理",
+                    "QR Code",
+                    "線上金流"
+                ]
+            },
+            "manufacturing": {
+                "title": "製造業 - ERP整合方案",
+                "client": "製造業公司",
+                "description": "導入 ERP 系統，整合生產、庫存、財務、人資等模組。",
+                "results": [
+                    "庫存準確度 98%",
+                    "生產效率提升 35%",
+                    "成本降低 20%"
+                ],
+                "technologies": [
+                    "財務管理",
+                    "庫存管理",
+                    "人資管理"
+                ]
+            },
+            "fitness": {
+                "title": "連鎖健身房 - 會員管理系統",
+                "client": "健身房連鎖品牌",
+                "description": "會員管理系統含智能門禁、課程預約、消費記錄等功能。",
+                "results": [
+                    "會員滿意度 92%",
+                    "續約率提升 40%",
+                    "營運成本降低 25%"
+                ],
+                "technologies": [
+                    "會員管理",
+                    "門禁整合",
+                    "APP開發"
+                ]
+            }
+        },
+        "cta": {
+            "title": "讓我們協助您的企業成長",
+            "subtitle": "立即聯繫,了解我們如何為您打造最適合的解決方案",
+            "button": "開始諮詢"
+        }
+    },
+    "footer": {
+        "quickLinks": "快速連結",
+        "contactInfo": "聯絡資訊",
+        "companyAddress": "公司地址",
+        "companyPhone": "公司電話",
+        "fax": "傳真電話",
+        "email": "電子信箱",
+        "copyright": "版權所有 © 2018 KCSYS 冠全資訊有限公司",
+        "companyDescription": "專業的資訊系統服務供應商，提供全方位的企業管理解決方案"
+    },
+    "breadcrumbs": {
+        "home": "首頁",
+        "news": "最新消息",
+        "about": "公司簡介",
+        "products": "產品介紹",
+        "partners": "合作夥伴",
+        "portfolio": "建置實績",
+        "contact": "聯絡我們"
+    },
+    "hero": {
+        "companyName": "冠全資訊",
+        "title": "專業資訊系統整合服務",
+        "subtitle": "提供飯店、餐廳、企業全方位的資訊化解決方案",
+        "slogan": "用單純的工具,將繁複的資料變為簡單",
+        "learnMore": "了解更多",
+        "contactUs": "聯絡我們"
+    }
+}

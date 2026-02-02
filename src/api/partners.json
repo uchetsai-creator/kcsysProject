@@ -1,0 +1,177 @@
+{
+  "partners": [
+    {
+      "id": 1,
+      "name": "凱撒飯店",
+      "englishName": "Caesar Park Hotel",
+      "category": "飯店業",
+      "logo": "/images/partners/caesar.png",
+      "website": "https://www.caesarpark.com.tw",
+      "description": "國際知名連鎖飯店集團",
+      "cooperationYear": 2020,
+      "services": ["飯店PMS", "會員管理"]
+    },
+    {
+      "id": 2,
+      "name": "君悅飯店",
+      "englishName": "Grand Hyatt",
+      "category": "飯店業",
+      "logo": "/images/partners/hyatt.png",
+      "website": "https://www.hyatt.com",
+      "description": "五星級國際連鎖飯店",
+      "cooperationYear": 2019,
+      "services": ["飯店PMS", "整合管理"]
+    },
+    {
+      "id": 3,
+      "name": "王品集團",
+      "englishName": "Wang Group",
+      "category": "餐飲業",
+      "logo": "/images/partners/wangsteak.png",
+      "website": "https://www.wanggroup.com.tw",
+      "description": "台灣知名連鎖餐飲集團",
+      "cooperationYear": 2021,
+      "services": ["餐廳POS", "會員管理", "行動裝置"]
+    },
+    {
+      "id": 4,
+      "name": "晶華酒店",
+      "englishName": "Regent Hotel",
+      "category": "飯店業",
+      "logo": "/images/partners/regent.png",
+      "website": "https://www.regenttaiwan.com",
+      "description": "台灣頂級國際酒店",
+      "cooperationYear": 2018,
+      "services": ["飯店PMS", "訂席系統"]
+    },
+    {
+      "id": 5,
+      "name": "寒舍集團",
+      "englishName": "Han Hsien Group",
+      "category": "飯店業",
+      "logo": "/images/partners/hanshe.png",
+      "website": "https://www.mumuhotel.com",
+      "description": "精品飯店連鎖品牌",
+      "cooperationYear": 2022,
+      "services": ["飯店PMS", "會員管理", "財務管理"]
+    },
+    {
+      "id": 6,
+      "name": "瓦城泰統",
+      "englishName": "Moo Wat",
+      "category": "餐飲業",
+      "logo": "/images/partners/moo-wat.png",
+      "website": "https://www.thaitown.com.tw",
+      "description": "知名泰式料理連鎖餐廳",
+      "cooperationYear": 2020,
+      "services": ["餐廳POS", "採購庫存"]
+    },
+    {
+      "id": 7,
+      "name": "饗食天堂",
+      "englishName": "Eat Paradise",
+      "category": "餐飲業",
+      "logo": "/images/partners/eat-paradise.png",
+      "website": null,
+      "description": "連鎖自助餐廳品牌",
+      "cooperationYear": 2021,
+      "services": ["餐廳POS", "訂席系統", "會員管理"]
+    },
+    {
+      "id": 8,
+      "name": "義大世界",
+      "englishName": "E-DA World",
+      "category": "觀光娛樂",
+      "logo": "/images/partners/eda.png",
+      "website": "https://www.edaworld.com.tw",
+      "description": "大型購物及娛樂中心",
+      "cooperationYear": 2019,
+      "services": ["票券管理", "整合管理", "會員管理"]
+    },
+    {
+      "id": 9,
+      "name": "劍湖山世界",
+      "englishName": "Janfusun Fancyworld",
+      "category": "觀光娛樂",
+      "logo": "/images/partners/janfusun.png",
+      "website": "https://www.janfusun.com.tw",
+      "description": "主題樂園與渡假村",
+      "cooperationYear": 2020,
+      "services": ["票券管理", "飯店PMS", "整合管理"]
+    },
+    {
+      "id": 10,
+      "name": "新光三越",
+      "englishName": "Shin Kong Mitsukoshi",
+      "category": "零售業",
+      "logo": "/images/partners/skm.png",
+      "website": "https://www.skm.com.tw",
+      "description": "大型百貨連鎖集團",
+      "cooperationYear": 2022,
+      "services": ["會員管理", "商品銷售", "整合管理"]
+    },
+    {
+      "id": 11,
+      "name": "微風廣場",
+      "englishName": "Breeze Center",
+      "category": "零售業",
+      "logo": "/images/partners/breeze.png",
+      "website": "https://www.breezecenter.com",
+      "description": "精品百貨購物中心",
+      "cooperationYear": 2021,
+      "services": ["會員管理", "財務管理"]
+    },
+    {
+      "id": 12,
+      "name": "遠東百貨",
+      "englishName": "Far Eastern Department",
+      "category": "零售業",
+      "logo": "/images/partners/fedstore.png",
+      "website": "https://www.feds.com.tw",
+      "description": "老字號百貨連鎖品牌",
+      "cooperationYear": 2018,
+      "services": ["會員管理", "商品銷售", "人資管理"]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "partnerId": 1,
+      "partnerName": "凱撒飯店",
+      "author": "林總經理",
+      "position": "總經理",
+      "content": "冠全資訊的飯店管理系統非常穩定，客服反應迅速，是值得信賴的合作夥伴。導入系統後，我們的訂房效率提升了40%。",
+      "rating": 5,
+      "date": "2023-10-15",
+      "avatar": "/images/testimonials/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "partnerId": 3,
+      "partnerName": "王品集團",
+      "author": "陳執行長",
+      "position": "執行長",
+      "content": "導入冠全的POS系統後，我們的營運效率大幅提升，投資報酬率超出預期。特別是行動點餐功能，讓服務流程更加順暢。",
+      "rating": 5,
+      "date": "2023-11-20",
+      "avatar": "/images/testimonials/avatar2.jpg"
+    },
+    {
+      "id": 3,
+      "partnerId": 8,
+      "partnerName": "義大世界",
+      "author": "張資訊長",
+      "position": "資訊長",
+      "content": "客製化開發完全符合我們的需求，團隊專業且配合度高。票券管理系統讓我們的入園流程更加順暢，遊客滿意度明顯提升。",
+      "rating": 5,
+      "date": "2023-09-08",
+      "avatar": "/images/testimonials/avatar3.jpg"
+    }
+  ],
+  "statistics": {
+    "totalPartners": 100,
+    "yearsOfService": 15,
+    "satisfactionRate": 98,
+    "projectsCompleted": 150
+  }
+}

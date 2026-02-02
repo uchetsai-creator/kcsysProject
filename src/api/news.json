@@ -1,0 +1,88 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "行動裝置-行動POS成功上線",
+      "slug": "mobile-pos-launch",
+      "date": "2024-03-15",
+      "category": "產品更新",
+      "author": "冠全資訊",
+      "image": "/images/news/mobile-pos.jpg",
+      "thumbnail": "/images/news/mobile-pos-thumb.jpg",
+      "excerpt": "耗費多時,工程師與客戶端的無數次溝通與測試,客製化系統,符合連鎖餐飲之需求,透過安排時段餐廳之服務作業操演,再次調整程式之流程與操演。",
+      "content": "<p>耗費多時,工程師與客戶端的無數次溝通與測試,客製化系統,符合連鎖餐飲之需求,透過安排時段餐廳之服務作業操演,再次調整程式之流程與操演,再次調甜點餐廳告完當,「冠全資訊」總會,讓我們有極會參與顧客服務內所需現場與門市之開發視角至面對問者。</p><p>版務現場即時點餐,即時送單、快速上桌,版務現場連線、即時時間與人力成本,會全客戶挖發進系統協同與工作筆者。</p><p>同時視現升級與顧客,會全客時間與經算資。</p>",
+      "tags": ["行動POS", "餐飲系統", "產品上線"],
+      "featured": true,
+      "views": 1250,
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "title": "串接全球旅宿通路管理業者Siteminder,訂單連續不間斷",
+      "slug": "siteminder-integration",
+      "date": "2024-02-20",
+      "category": "系統整合",
+      "author": "冠全資訊",
+      "image": "/images/news/siteminder.jpg",
+      "thumbnail": "/images/news/siteminder-thumb.jpg",
+      "excerpt": "歷經無數次的測試與改良,與Siteminder雙向串接的服務正式上線,一站式的登打、節省人員按對、建檔、上傳、修正...等繁複工作量,服務即時不間斷。",
+      "content": "<p>歷經無數次的測試與改良,與Siteminder雙向串接的服務正式上線,一站式的登打、節省人員按對、建檔、上傳、修正...等繁複工作量,服務即時不間斷。</p><p>「冠全資訊」秉持著「用單純的工具,將繁複的資料變為簡單」,一同與各大業者努力為台灣的旅宿業者打造更加便使的工作環境。</p><h3>主要功能特色:</h3><ul><li>一站式管理所有訂房通路</li><li>即時同步房態與價格</li><li>自動化訂單處理流程</li><li>減少人工錯誤機率</li><li>提升整體作業效率</li></ul>",
+      "tags": ["Siteminder", "飯店PMS", "系統串接"],
+      "featured": true,
+      "views": 2100,
+      "status": "published"
+    },
+    {
+      "id": 3,
+      "title": "新版會員管理系統正式推出",
+      "slug": "new-member-system",
+      "date": "2024-01-10",
+      "category": "產品更新",
+      "author": "冠全資訊",
+      "image": "/images/news/member-system.jpg",
+      "thumbnail": "/images/news/member-system-thumb.jpg",
+      "excerpt": "全新的會員管理系統提供更完善的會員經營功能,包含智能推薦、自動化行銷、消費分析等進階功能。",
+      "content": "<p>全新的會員管理系統提供更完善的會員經營功能,包含智能推薦、自動化行銷、消費分析等進階功能。</p><h3>新版會員管理系統主要更新:</h3><ul><li>AI 智能推薦引擎</li><li>自動化行銷工具</li><li>深度消費行為分析</li><li>多通路會員整合</li><li>行動會員卡功能</li></ul><p>協助企業更有效地經營會員，提升顧客忠誠度與回購率。</p>",
+      "tags": ["會員管理", "系統更新", "AI功能"],
+      "featured": false,
+      "views": 850,
+      "status": "published"
+    },
+    {
+      "id": 4,
+      "title": "雲端財務系統升級完成",
+      "slug": "cloud-financial-system-upgrade",
+      "date": "2023-12-05",
+      "category": "系統升級",
+      "author": "冠全資訊",
+      "image": "/images/news/financial-upgrade.jpg",
+      "thumbnail": "/images/news/financial-upgrade-thumb.jpg",
+      "excerpt": "財務管理系統全面升級至雲端架構，提供更安全、更快速的財務處理能力。",
+      "content": "<p>財務管理系統全面升級至雲端架構，提供更安全、更快速的財務處理能力。新版系統採用最新的加密技術，確保財務資料的安全性。</p><h3>升級重點:</h3><ul><li>雲端架構，隨時隨地存取</li><li>即時財務報表</li><li>多幣別支援</li><li>自動對帳功能</li><li>符合最新稅務法規</li></ul>",
+      "tags": ["財務管理", "雲端系統", "系統升級"],
+      "featured": false,
+      "views": 620,
+      "status": "published"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "產品更新",
+      "slug": "product-update",
+      "count": 2
+    },
+    {
+      "id": 2,
+      "name": "系統整合",
+      "slug": "system-integration",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "name": "系統升級",
+      "slug": "system-upgrade",
+      "count": 1
+    }
+  ]
+}
